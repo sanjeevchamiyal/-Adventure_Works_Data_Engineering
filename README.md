@@ -5,7 +5,8 @@ This project demonstrates a complete **end-to-end data engineering and analytics
 ---
 ## 🏛️ Architecture
 
-[Architecture]((https://github.com/user-attachments/assets/a88ca893-adf0-4923-bc3c-7a152def6128)
+[Architecture](/![WhatsApp Image 2025-08-01 at 5 18 01 PM](https://github.com/user-attachments/assets/5f8e4d28-0afb-4dfe-a28b-932fad0e47e6)
+
 )
 I followed the **medallion architecture** pattern (Bronze, Silver, Gold) for organizing data at different processing stages.
 
@@ -35,7 +36,7 @@ Here The output from the above activity is connected to foreach loop
 and Then inside the foreach activity u apply **`copydata`** Activity
 - Using **`copydata`** copies data from GitHub to the **Bronze layer** in Azure Data Lake Storage
 
-![Data Factory](./Images/DataFactory.png)
+![Data Factory](./![WhatsApp Image 2025-08-01 at 5 18 21 PM](https://github.com/user-attachments/assets/2a4f8823-bfb9-4e3f-952a-9a2b4601dec7))
 
 ---
 
@@ -59,7 +60,9 @@ In **Azure synapse Analytics**,I created SQL scripts like :
 - Secure access patterns using managed identities
 - Azure Synapse Analytics serves as the analytics engine for your data lakehouse, providing serverless sql pool feature
 
-  ![Synapse](./Images/synapse.png)
+  ![Synapse](./![WhatsApp Image 2025-08-01 at 5 19 10 PM](https://github.com/user-attachments/assets/e24050c2-562a-4cf4-a9df-a50023b0bbcc)
+
+)
 
 ---
 
