@@ -5,7 +5,7 @@ This project demonstrates a complete **end-to-end data engineering and analytics
 ---
 ## 🏛️ Architecture
 
-![Architecture](.![WhatsApp Image 2025-08-01 at 5 18 01 PM](https://github.com/user-attachments/assets/a88ca893-adf0-4923-bc3c-7a152def6128)
+[Architecture]((https://github.com/user-attachments/assets/a88ca893-adf0-4923-bc3c-7a152def6128)
 )
 I followed the **medallion architecture** pattern (Bronze, Silver, Gold) for organizing data at different processing stages.
 
